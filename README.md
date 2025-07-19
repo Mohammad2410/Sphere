@@ -1,36 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+"Sphere is a dynamic social media platform designed to foster genuine connections and vibrant communities. Share your life's moments through photos, videos, and posts, engage in meaningful conversations, and explore a diverse range of interests from around the world. Your privacy and authentic expression are our top priorities."
 
-## Getting Started
+"Welcome to Sphere, your next-generation social hub. We empower users to connect effortlessly, express themselves creatively, and discover content tailored to their passions. Join millions building a better, more connected online experience."
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<img width="1449" height="688" alt="Screenshot 2025-07-19 at 11 39 14 AM" src="https://github.com/user-attachments/assets/d5c3cd76-7762-4478-ba42-d9dda9b86c72" />
+<img width="747" height="624" alt="Screenshot 2025-07-19 at 11 39 02 AM" src="https://github.com/user-attachments/assets/eebcbf02-087e-4c83-a42b-b180af3cf03d" />
+<img width="1136" height="646" alt="Screenshot 2025-07-19 at 11 38 50 AM" src="https://github.com/user-attachments/assets/eb2ab8d1-51b1-4cea-94f0-84df608fa20b" />
